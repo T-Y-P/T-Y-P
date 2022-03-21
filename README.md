@@ -1,3 +1,8 @@
+<!--
+ * @Name: AXI
+ * @Date: 2022-03-18
+ * @ContactTG: @czgov
+-->
 Hi 👋 My name is YanPeng Tang
 ==============================
 
@@ -22,7 +27,14 @@ Developers who don't understand code
 ### Skills
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="linux" /></a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="html5" /> </a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" /> </a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="linux" /></a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql.svg" width="36" height="36" alt="mysql" /></a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="css3" /> </a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="nginx" /> </a>
+
+
 
 ### My GitHub Stats
 
