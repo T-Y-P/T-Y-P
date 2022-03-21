@@ -32,8 +32,9 @@ Developers who don't understand code
 <a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="css3" /> </a>
 <a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="linux" /></a>
 <a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="mysql" /></a>
-
 <a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="nginx" /> </a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Kubernetes/Kubernetes-original.svg" width="36" height="36" alt="Kubernetes " /> </a>
+<a href=" " target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain." width="36" height="36" alt="ubuntu " /> </a>
 
 
 
