@@ -1,8 +1,3 @@
-<!--
- * @Name: AXI
- * @Date: 2022-03-18
- * @ContactTG: @czgov
--->
 Hi 👋 My name is YanPeng Tang
 ==============================
 
@@ -22,6 +17,12 @@ Developers who don't understand code
 <a href="https://www.github.com/T-Y-P" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.czmz.top/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
 </p>
+
+
+### Skills
+
+<p align="left">
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="linux" /></a>
 
 ### My GitHub Stats
 
