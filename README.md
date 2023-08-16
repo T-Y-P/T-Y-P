@@ -1,8 +1,3 @@
-<!--
- * @Name: AXI
- * @Date: 2022-04-26
- * @ContactTG: @czgov
--->
 Hi 👋 My name is YanPeng Tang
 ==============================
 
@@ -10,7 +5,7 @@ Developers who don't understand code
 ------------------
 
 * 🌍  I'm based in China
-* 🖥️  See my portfolio at [博客](https://www.czmz.top)
+* 🖥️  See my portfolio at [博客](https://www.0735.pro)
 * ✉️  You can contact me at [ax2019@aliyun.com](mailto:ax2019@aliyun.com)
 * 🧠  I'm learning SEM bidding
 * ⚡  YOLO
